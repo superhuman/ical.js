@@ -1,5 +1,5 @@
 {
-  "name": "ical.js",
+  "name": "superhuman-ical.js",
   "version": "1.2.2",
   "author": "Philipp Kewisch",
   "contributors": [
@@ -9,7 +9,7 @@
   "main": "build/ical.min.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/mozilla-comm/ical.js.git"
+    "url": "https://github.com/superhuman/ical.js.git"
   },
   "keywords": [
     "calendar",
